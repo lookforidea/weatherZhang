@@ -92,7 +92,7 @@ app/
 应用使用百度地图天气API：
 - 芗城区: `district_id=350602`
 - 龙文区: `district_id=350603`
-- API Key: `BgFd8iVrd6YSViXfEvgkeee9pFmAYqkD`
+- API Key: `baidu map api`
 
 API端点: `https://api.map.baidu.com/weather/v1/`
 
